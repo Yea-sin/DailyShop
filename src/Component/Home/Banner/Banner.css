@@ -1,0 +1,10 @@
+.banner-texts {
+  margin-bottom: 20%;
+  color: white;
+}
+.banner-texts h2 {
+  font-size: 80px;
+  font-family: monospace;
+  font-weight: 800;
+  font-style: italic;
+}
